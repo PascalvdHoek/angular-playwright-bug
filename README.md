@@ -7,5 +7,5 @@ Make sure docker is running
 
 - npm ci
 - npm run storybook
--
-- seperate terminal npm run test-vr
+- seperate terminal
+- npm run vr-test
